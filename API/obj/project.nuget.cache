@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSWIghpwffpr1n6sMr43Vrrf/BDoZC8cZcPUAwE38P8OCpFLjVQWDZIAolZVz+4z3+GamJuBW6pkO2hCwlyyBQ==",
+  "dgSpecHash": "RLh4uoO8SshuCwYOnftOh7mKzECM2d2JHhQOcgqx32pJaBqxsR4M9nUxRF91oL3WoVD6srM7k24VZSMBrbBBog==",
   "success": true,
-  "projectFilePath": "C:\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Keshav_Prasad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Keshav_Prasad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
